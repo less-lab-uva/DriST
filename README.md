@@ -8,3 +8,9 @@ The DriST framework for extracting road scene spatial-relationship triplets (1) 
 
 ## Evaluation of VLMs
 The evaluation of different VLMs with the 4 query modes (3) presented in the paper is available at https://anonymous.4open.science/r/LLM_benchmark/README.md.
+
+### Query modes
+![Query mode 1](images/cropped_qm1.png "Query mode 1")
+![Query mode 2](images/cropped_qm2.png "Query mode 2")
+![Query mode 3](images/cropped_qm3.png "Query mode 3")
+![Query mode 4](images/cropped_qm4.png "Query mode 4")
