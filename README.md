@@ -4,10 +4,11 @@ Overview of paper contributions: (1) DriST extensible framework for extracting a
 
 
 ## DriST Framework and Dataset
-The DriST framework for extracting road scene spatial-relationship triplets (1) and generating the DriST dataset (2) is available at https://anonymous.4open.science/anonymize/LLM_SRP.
+The DriST framework for extracting road scene spatial-relationship triplets (1) and generating the DriST dataset (2) is available at [https://anonymous.4open.science/r/LLM_SRP/README.md](https://anonymous.4open.science/r/LLM_SRP/README.md).
+
 
 ## Evaluation of VLMs
-The evaluation of different VLMs with the 4 query modes (3) presented in the paper is available at https://anonymous.4open.science/r/LLM_benchmark/README.md.
+The evaluation of different VLMs with the 4 query modes (3) presented in the paper is available at [https://anonymous.4open.science/r/LLM_benchmark/README.md](https://anonymous.4open.science/r/LLM_benchmark/README.md).
 
 ### Query modes
 ![Query mode 1](images/cropped_qm1.png "Query mode 1")
