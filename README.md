@@ -7,7 +7,7 @@ The DriST codebase for extracting road scene spatial-relationship triplets and g
 The evaluation of different VLMs with the 4 query modes presented in the paper is available at [https://anonymous.4open.science/r/LLM_benchmark/README.md](https://anonymous.4open.science/r/LLM_benchmark/README.md).
 
 ## Monitor using VLM
-Coming soon!
+The monitor implementations using the best performing VLM with query mode 4 is available at [https://anonymous.4open.science/r/LLM_SRP/monitor/README.md](https://anonymous.4open.science/r/LLM_SRP/monitor/README.md)
 
 ## Appendix
 ### Query modes
