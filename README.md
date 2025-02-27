@@ -17,6 +17,7 @@ The monitor implementations using the best performing VLM with query mode 4 is a
 ![Query mode 4](images/cropped_qm4.png "Query mode 4")
 
 ### Heatmaps
+The value in square brackets represents the number of samples that the triplet appeared in the prediction.
 A value of -1 in the precision or recall heatmap indicates that there was no prediction or ground truth value for that triplet (denoted by a 0 in square brackets), respectively.
 Conversely, a value of 0 in the precision or recall heatmap means that the VLM either never correctly identified the entity or missed all instances of it, respectively.
 
