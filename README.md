@@ -1,13 +1,13 @@
 # DriST
 
 ## DriST Dataset
-The DriST codebase for extracting road scene spatial-relationship triplets and generating the DriST dataset is available at [https://anonymous.4open.science/r/LLM_SRP/README.md](https://anonymous.4open.science/r/LLM_SRP/README.md).
+The DriST codebase for extracting road scene spatial-relationship triplets and generating the DriST dataset is available at [https://github.com/Felipetoledo4815/LLM_SRP](https://github.com/Felipetoledo4815/LLM_SRP).
 
 ## Evaluation of VLMs
-The evaluation of different VLMs with the 4 query modes presented in the paper is available at [https://anonymous.4open.science/r/LLM_benchmark/README.md](https://anonymous.4open.science/r/LLM_benchmark/README.md).
+The evaluation of different VLMs with the 4 query modes presented in the paper is available at [https://github.com/Felipetoledo4815/LLM_benchmark](https://github.com/Felipetoledo4815/LLM_benchmark).
 
 ## Monitor using VLM
-The monitor implementations using the best performing VLM with query mode 4 is available at [https://anonymous.4open.science/r/LLM_SRP/monitor/README.md](https://anonymous.4open.science/r/LLM_SRP/monitor/README.md)
+The monitor implementations using the best performing VLM with query mode 4 is available at [https://github.com/Felipetoledo4815/LLM_SRP/tree/main/monitor](https://github.com/Felipetoledo4815/LLM_SRP/tree/main/monitor).
 
 ## Appendix
 ### Query modes
